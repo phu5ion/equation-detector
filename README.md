@@ -6,4 +6,4 @@ To run this software, type the following command on a bash console:
 
 We are eventually going to wrap this code in a Flask application for direct input of handwritten equations. Stay tuned for more updates!
 
-Important contributors: @tanchongmin, @dylan
+Jointly contributed by: @tanchongmin, @dylantan
